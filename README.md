@@ -124,6 +124,13 @@
 │  └──────────────┴──────────────┘    │
 └─────────────────────────────────────┘
 
+## Clean Architecture Principles
+
+- Separation of Concerns: Each layer has distinct responsibilities
+- Dependency Rule: Dependencies point inward
+- Type Safety: TypeScript interfaces between layers
+- Testability: Mockable services and repositories
+
 ## Project Structure
 
 ```
